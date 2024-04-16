@@ -1,0 +1,17 @@
+.images{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.container{
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+}
+*{
+    background-color: blueviolet;
+}
+p{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
